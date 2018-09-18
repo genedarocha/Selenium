@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12441" started-at="2018-09-07T10:58:45Z" finished-at="2018-09-07T10:58:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12441" started-at="2018-09-07T10:58:45Z" finished-at="2018-09-07T10:58:57Z">
+      <class name="AmazonTestNG">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:AmazonTestNG@59e5ddf]" name="setUp" is-config="true" duration-ms="5649" started-at="2018-09-07T10:58:45Z" finished-at="2018-09-07T10:58:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testNG123()[pri:0, instance:AmazonTestNG@59e5ddf]" name="testNG123" duration-ms="6762" started-at="2018-09-07T10:58:50Z" finished-at="2018-09-07T10:58:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNG123 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:AmazonTestNG@59e5ddf]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-09-07T10:58:57Z" finished-at="2018-09-07T10:58:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- AmazonTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
